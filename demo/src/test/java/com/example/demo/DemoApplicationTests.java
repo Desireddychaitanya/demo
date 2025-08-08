@@ -9,6 +9,9 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test1
+	void contextLoadsd() {
+	}
 
 
 }
